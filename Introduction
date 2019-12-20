@@ -1,0 +1,16 @@
+LWC Introduction
+
+We can learn all the Salesforce features using Trailheads which is provided by salesforce.
+
+
+For Learning Apex, Lightning, Visualforce pages we can create a new Developer edition or New TrailHead Play ground.
+
+
+But If we want to learn Lightning web components(LWC), we are not able to code on salesforce. So that salesforce introduced new concepts for LWC.
+
+
+
+Pre-requisites:
+As usual, we need a new Developer edition or New TrailHead Play ground.
+Install Salesforce CLI.
+Install Visual Studio Code and extensions.
